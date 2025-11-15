@@ -203,6 +203,7 @@ module.exports = function(grunt) {
                     "packages/node_modules/@node-red/editor-client/src/js/ui/userSettings.js",
                     "packages/node_modules/@node-red/editor-client/src/js/ui/ai-models.js",
                     "packages/node_modules/@node-red/editor-client/src/js/ui/ai-token-tracker.js",
+                    "packages/node_modules/@node-red/editor-client/src/js/ui/ai-history-manager.js",
                     "packages/node_modules/@node-red/editor-client/src/js/ui/openai-service.js",
                     "packages/node_modules/@node-red/editor-client/src/js/ui/chatbot.js",
                     "packages/node_modules/@node-red/editor-client/src/js/ui/projects/projects.js",
