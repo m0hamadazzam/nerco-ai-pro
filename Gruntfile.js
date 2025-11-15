@@ -207,6 +207,7 @@ module.exports = function(grunt) {
                     "packages/node_modules/@node-red/editor-client/src/js/ui/ai-context-manager.js",
                     "packages/node_modules/@node-red/editor-client/src/js/ui/ai-rag-service.js",
                     "packages/node_modules/@node-red/editor-client/src/js/ui/ai-compression-service.js",
+                    "packages/node_modules/@node-red/editor-client/src/js/ui/ai-module-installer.js",
                     "packages/node_modules/@node-red/editor-client/src/js/ui/ai-service.js",
                     "packages/node_modules/@node-red/editor-client/src/js/ui/chatbot.js",
                     "packages/node_modules/@node-red/editor-client/src/js/ui/projects/projects.js",
